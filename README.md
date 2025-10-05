@@ -20,7 +20,7 @@ A stunning, interactive 3D portfolio built with React, Three.js, and React Three
 
 ## 🚀 Demo
 
-[Live Demo](your-live-demo-link-here)
+[Live Demo]([your-live-demo-link-here](https://3d-portfolio-pi-rust.vercel.app/))
 
 
 
@@ -188,4 +188,4 @@ Project Link: [https://github.com/Akankshajha23/3d-portfolio](https://github.com
 
 ---
 
-⭐️ If you found this project helpful, please consider giving it a sta
+⭐️ If you found this project helpful, please consider giving it a star.
