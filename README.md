@@ -176,7 +176,7 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👏 Acknowledgments
 
-- Huge Thanks to [JavaScript Mastery](https://www.youtube.com/watch?v=FkowOdMjvYo) - Excellent guide for building 3D portfolios
+- Huge Thanks to [Adrian, JavaScript Mastery]([https://www.youtube.com/watch?v=FkowOdMjvYo](https://github.com/adrianhajdin)) - Excellent guide for MERN projets
 - 3D models from various sources
 - Inspiration from the Three.js community
 
