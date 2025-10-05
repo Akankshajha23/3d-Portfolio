@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/3d-portfolio.git
+git clone https://github.com/Akankshajha23/3d-portfolio.git
 cd 3d-portfolio
 ```
 
@@ -176,16 +176,15 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👏 Acknowledgments
 
-- Tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=FkowOdMjvYo) - Excellent guide for building 3D portfolios
+- Huge Thanks to [JavaScript Mastery](https://www.youtube.com/watch?v=FkowOdMjvYo) - Excellent guide for building 3D portfolios
 - 3D models from various sources
-- Icons from [Icons8](https://icons8.com)
 - Inspiration from the Three.js community
 
 ## 📧 Contact
 
-Akanksha - [@yourtwitter](https://twitter.com/yourtwitter)
+Akanksha - [Linkedin](linkedin.com/in/akanksha-jha-/)
 
-Project Link: [https://github.com/yourusername/3d-portfolio](https://github.com/yourusername/3d-portfolio)
+Project Link: [https://github.com/Akankshajha23/3d-portfolio](https://github.com/Akankshajha23/3d-portfolio)
 
 ---
 
