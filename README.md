@@ -22,19 +22,7 @@ A stunning, interactive 3D portfolio built with React, Three.js, and React Three
 
 [Live Demo](your-live-demo-link-here)
 
-## 📸 Screenshots
 
-### Home Page
-*Interactive 3D island with floating info cards*
-
-### About Page
-*Skills showcase and experience timeline*
-
-### Projects Page
-*Modern project cards with live links*
-
-### Contact Page
-*3D animated contact form with fox character*
 
 ## 🛠️ Built With
 
