@@ -20,7 +20,7 @@ A stunning, interactive 3D portfolio built with React, Three.js, and React Three
 
 ## 🚀 Demo
 
-[Live Demo]([your-live-demo-link-here](https://3d-portfolio-pi-rust.vercel.app/))
+[Live Demo]((https://3d-portfolio-pi-rust.vercel.app/))
 
 
 
